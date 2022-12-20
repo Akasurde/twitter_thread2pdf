@@ -9,7 +9,7 @@ Installation
 ------------
 
 * Install all the required third party libraries using ``requirements.txt``
-* Generate an access token and access token secret through your app’s Keys and Tokens tab under the `Twitter Developer Portal Projects & Apps page <https://developer.twitter.com/en/portal/projects-and-apps>`_.
+* Generate an access token and access token secret through your app’s Keys and Tokens tab under the [Twitter Developer Portal Projects & Apps page](https://developer.twitter.com/en/portal/projects-and-apps).
 * Create a file ``.twitter_api`` in user's home directory like - 
 
 ```
